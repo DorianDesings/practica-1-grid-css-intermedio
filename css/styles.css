@@ -111,11 +111,11 @@ blockquote {
 }
 
 .card--quoted-violet::after {
-  content: url(/assets/images/quotation-violet.svg);
+  content: url(../assets/images/quotation-violet.svg);
 }
 
 .card--quoted-grey::after {
-  content: url(/assets/images/quotation-grey.svg);
+  content: url(../assets/images/quotation-grey.svg);
 }
 
 .user {
